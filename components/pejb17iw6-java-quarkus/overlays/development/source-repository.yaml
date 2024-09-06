@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pejb17iw6-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pejb17iw6-java-quarkus
